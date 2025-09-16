@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+selenium
+undetected-chromedriver
+qrcode[pil]
+opencv-python
